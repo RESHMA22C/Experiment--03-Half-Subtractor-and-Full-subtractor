@@ -35,20 +35,35 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:RESHMA C 
+RegisterNumber: 23012886 
 */
+Code:
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/a616f9fa-e75e-4490-9584-34fdef585ec9)
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/32cba086-644a-403f-bd5e-d03bec23faeb)
 
 ## Output:
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/f2d43673-3fdf-456d-bb85-6e6394e003a9)
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/624d9f0b-a75c-4a94-8cb0-13f2e6876b7f)
 
-## Truthtable
+## Truthtable:
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/2f5691fc-9356-4af2-b0f7-c982e9e14383)
+
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/d6c36754-dba8-4dd8-b43d-61cf872100df)
 
 
 
-##  RTL realization
+##  RTL realization:
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/55963343-7e28-427c-86c7-e3568b3843de)
+
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/4e2c6c30-dfec-43ff-bcd7-1d73998f8b6e)
 
 
-## Timing diagram 
+## Timing diagram :
+
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/858a3d25-953f-4d6e-8a34-0f1566f37002)
+
+![image](https://github.com/RESHMA22C/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474426/d23a56ee-f183-49df-904e-ed791f3ff5b0)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
